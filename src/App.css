@@ -1,0 +1,15 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+:root {
+  --yellow: #2aa15f;
+  --orange: #2aa15f;
+  --black: #242d49;
+  --gray: rgba(36, 45, 73, 0.65);
+}
+.css-78c6dr-MuiToolbar-root-MuiTablePagination-toolbar {
+  display: flex !important;
+  align-items: baseline !important;
+}
